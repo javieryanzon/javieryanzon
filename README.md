@@ -20,11 +20,7 @@
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](www.linkedin.com/in/javieryanzon) o enviarme un [correo electrónico](yanzonjavier@gmail.com).
-
-## Contribuciones
-
-Si encuentras algún error o tienes sugerencias de mejora en mis proyectos, ¡estoy abierto a contribuciones! Siéntete libre de abrir un problema o enviar una solicitud de extracción.
+Puedes encontrarme en [LinkedIn](www.linkedin.com/in/javieryanzon).
 
 ## Muchas gracias!!
 
