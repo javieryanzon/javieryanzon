@@ -1,6 +1,4 @@
-# ¡Hola! 👋
-🚀
-Soy Javier Yanzón, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos📊. 
+🚀Soy Javier Yanzón, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos📊. 
 ⚙️Me encanta el impacto positivo que puede tener el transporte y las ciudades en la forma en que vivimos.
 ⚽Amante del buen fútbol
 🌍Soy Argentino viviendo en Madrid.
@@ -17,7 +15,7 @@ Soy Javier Yanzón, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](www.linkedin.com/in/javieryanzon) o enviarme un correo electrónico a [tu@email.com].
+Puedes encontrarme en [LinkedIn](www.linkedin.com/in/javieryanzon) o enviarme un [correo electrónico](yanzonjavier@gmail.com).
 
 ## Contribuciones
 
