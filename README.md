@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-🚀Soy Javier, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos📊. 
+🚀Soy Javier, ingeniero apasionado del transporte🚌🚛🚇, tecnología y ciencia de datos📊. 
 
 ⚙️Me encanta el impacto positivo que puede tener el transporte y las ciudades en la forma en que vivimos.
 
@@ -10,11 +10,11 @@
 
 ## Proyectos Destacados
 
-### [Predictor de demanda en sistemas de bikesharing🚲 en Bs As](https://github.com/javieryanzon/bike_sharing_demand_predictor)
+### 🌟[Predictor de demanda en sistemas de bikesharing🚲 en Bs As](https://github.com/javieryanzon/bike_sharing_demand_predictor)
 
 ### [Análisis de la correlación del precio/m2 y cercanía al subte🚇 (trabajo grupal)](https://github.com/javieryanzon/correlacion_precio_m2_y_cercania_subte)
 
-### [Análisis📊 de clústers del uso del sistema de bike sharing de Londres](https://github.com/javieryanzon/London_bike_sharing)
+### ⭐[Análisis📊 de clústers del uso del sistema de bike sharing de Londres](https://github.com/javieryanzon/London_bike_sharing)
 
 ### [Análisis del impacto de la tarificación📈 de ecobici en la cantidad de viajes](https://github.com/javieryanzon/impacto_de_la_tarificacion_de_ecobici_en_la_cantidad_de_viajes)
 
