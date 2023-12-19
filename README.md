@@ -8,6 +8,9 @@
 
 🌍Argentino viviendo en Madrid.
 
+
+
+
 ## Proyectos Destacados🚀
 
 ### - [Predictor de demanda del sistema de bikesharing🚲 de Bs As](https://github.com/javieryanzon/bike_sharing_demand_predictor)
@@ -24,6 +27,7 @@
 ### - [Análisis del impacto de la tarificación📈 de ecobici en la cantidad de viajes](https://github.com/javieryanzon/impacto_de_la_tarificacion_de_ecobici_en_la_cantidad_de_viajes)
 
 ### - [Análisis de la correlación del precio/m2 y cercanía al subte🚇 (trabajo grupal)](https://github.com/javieryanzon/correlacion_precio_m2_y_cercania_subte)
+
 
 ## Contacto
 
