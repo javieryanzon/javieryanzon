@@ -22,7 +22,7 @@
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/javieryanzon)
 
-## Muchas gracias!!
+## Muchas gracias!
 
 
 <!--
