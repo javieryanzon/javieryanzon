@@ -7,8 +7,6 @@
 ⚽Amante del buen fútbol
 
 🌍Argentino viviendo en Madrid.
-
-<br />
 <br />
 
 ## Proyectos Destacados🚀
