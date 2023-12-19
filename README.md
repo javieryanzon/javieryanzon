@@ -14,6 +14,11 @@
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh6ajJvaHZ4ZWlidmpqaWV6amY0ejJvcDBuNjN6ZXZzemllaThkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Bw3NBLM3mMmzILD7x/giphy.gif" width="500" align="center">
 
+<br />
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBxcjl4cno0eW5wc211ZXhtYWIwdTljYXp3Y3V0bHplcnB2MzZzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6CSUxVP4r35Qr0MCI/giphy.gif" width="500" align="center">
+</p>
+
 ### - [Análisis📊 de clústers en el sistema de bike sharing de Londres](https://github.com/javieryanzon/London_bike_sharing)
 
 ### - [Análisis del impacto de la tarificación📈 de ecobici en la cantidad de viajes](https://github.com/javieryanzon/impacto_de_la_tarificacion_de_ecobici_en_la_cantidad_de_viajes)
