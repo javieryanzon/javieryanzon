@@ -10,9 +10,9 @@
 
 ## Proyectos Destacados🚀
 
-### - [Predictor de demanda en sistemas de bikesharing🚲 en Bs As](https://github.com/javieryanzon/bike_sharing_demand_predictor)
+### - [Predictor de demanda en el sistema de bikesharing🚲 de Bs As](https://github.com/javieryanzon/bike_sharing_demand_predictor)
 
-### - [Análisis📊 de clústers del uso del sistema de bike sharing de Londres](https://github.com/javieryanzon/London_bike_sharing)
+### - [Análisis📊 de clústers en el sistema de bike sharing de Londres](https://github.com/javieryanzon/London_bike_sharing)
 
 ### - [Análisis del impacto de la tarificación📈 de ecobici en la cantidad de viajes](https://github.com/javieryanzon/impacto_de_la_tarificacion_de_ecobici_en_la_cantidad_de_viajes)
 
