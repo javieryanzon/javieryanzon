@@ -1,6 +1,6 @@
-# ¡Hola! 👋
+# ¡Hola! 
 
-Soy Javier, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos📊. 
+👋Soy Javier, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos📊. 
 
 ⚙️Me encanta el impacto positivo que puede tener el transporte y las ciudades en la forma en que vivimos.
 
@@ -8,7 +8,7 @@ Soy Javier, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos�
 
 🌍Argentino viviendo en Madrid.
 
-## Proyectos Destacados
+## Proyectos Destacados🚀🚀
 
 ### [Predictor de demanda en sistemas de bikesharing🚲 en Bs As](https://github.com/javieryanzon/bike_sharing_demand_predictor)
 
