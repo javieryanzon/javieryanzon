@@ -1,6 +1,6 @@
 # ¡Hola! 
 
-👋Soy Javier, ingeniero apasionado del transporte🚶🏼‍♂️🚲🚌🚛🚇 y ciencia de datos📊. 
+👋Soy Javier, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos📊. 
 
 ⚙️Me encanta el impacto positivo que puede tener el transporte en la forma en que vivimos.
 
