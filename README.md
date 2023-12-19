@@ -8,7 +8,7 @@
 
 🌍Argentino viviendo en Madrid.
 
-## Proyectos Destacados🚀🚀
+## Proyectos Destacados🚀
 
 ### [Predictor de demanda en sistemas de bikesharing🚲 en Bs As](https://github.com/javieryanzon/bike_sharing_demand_predictor)
 
