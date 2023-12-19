@@ -20,7 +20,7 @@
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](www.linkedin.com/in/javieryanzon).
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/javieryanzon/).
 
 ## Muchas gracias!!
 
