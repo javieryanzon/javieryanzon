@@ -1,13 +1,6 @@
 # ¡Hola! 
 
-👋Soy Javier, ingeniero apasionado del transporte🚌🚛🚇 y ciencia de datos📊. 
-
-⚙️Me encanta el impacto positivo que puede generar el transporte en la forma en que vivimos.
-
-⚽Amante del buen fútbol
-
-🌍Argentino viviendo en Madrid.
-
+👋Soy Javier, ingeniero aficionado de los datos📊 y de la movilidad urbana🚌
 
 <br />
 
