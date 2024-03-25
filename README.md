@@ -22,11 +22,11 @@
 ### - [Análisis de la correlación del precio/m2 y cercanía al subte🚇 (trabajo grupal)](https://github.com/javieryanzon/correlacion_precio_m2_y_cercania_subte)
 
 
-## Contacto
+## Contacto 📥
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/javieryanzon)
 
-## Muchas gracias!
+## Muchas gracias 🙌🏻
 
 
 <!--
